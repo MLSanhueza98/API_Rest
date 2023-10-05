@@ -1,5 +1,5 @@
 # Trabajo final base de datos avanzada
-Integrantes: Luis Inostroza Flores, Mario Labbé Sanhueza.
+
 
 
 # Instalación
